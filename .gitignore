@@ -4,6 +4,16 @@ minecraftinstance.json
 
 /saves/
 
-/resourcepakcs/
+/resourcepacks/
 
 /downloads/
+
+/.mixin.out/
+
+/downloads/
+
+/llibrary/
+
+/logs/
+
+/resources/
