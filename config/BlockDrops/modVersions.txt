@@ -161,7 +161,6 @@
   "cofhcore": "4.6.6",
   "lttweaker": "1.1.14",
   "kleeslabs": "5.4.12",
-  "embersconstruct": "1.2.4",
   "betterquesting": "3.5.329",
   "controlling": "3.0.10",
   "cookingforblockheads": "6.5.0",
