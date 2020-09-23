@@ -26,6 +26,7 @@
   "waila": "1.8.26",
   "ftblib": "5.4.7.2",
   "teslafied": "1.1.1",
+  "enderioconduitsrefinedstorage": "5.2.60",
   "redstonearsenal": "2.6.6",
   "guideapi": "1.12-2.1.8-63",
   "jeresources": "0.9.2.60",
