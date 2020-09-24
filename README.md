@@ -19,9 +19,6 @@ Austin:
 -------------------
 TODO:
 
-* Make Better Foliage look better
-    * Fix cactus
-    * Fix grass
 * Unify ore gen
     * (fix) copper
     * Tin
