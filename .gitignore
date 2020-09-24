@@ -22,7 +22,6 @@ config/brandon3055/ResourceCache
 config/brandon3055/ProjectIntelligence/ModDocs/
 discordsuite/version
 discordsuite/win32-x86-64/discord-rpc.dll
-config/IC2.ini
 config/splash.properties
 config/thaumicjei_itemstack_aspects.json
 config/AppliedEnergistics2/aerecipes/
