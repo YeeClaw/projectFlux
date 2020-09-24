@@ -21,7 +21,7 @@ TODO:
 
 * Unify ore gen
     * (fix) copper - needs testing
-    * Tin
+    * Tin - needs testing
     * Alluminum
     * Uranium
 * Questline Alpha
