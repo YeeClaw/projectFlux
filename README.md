@@ -20,7 +20,7 @@ Austin:
 TODO:
 
 * Unify ore gen
-    * (fix) copper
+    * (fix) copper - needs testing
     * Tin
     * Alluminum
     * Uranium
