@@ -1,5 +1,6 @@
 {
   "blockdrops": "1.4.0",
+  "bqt": "1.0",
   "draconicevolution": "2.3.27",
   "contenttweaker": "1.12.2-4.9.1",
   "thermalinnovation": "0.3.6",
@@ -144,6 +145,7 @@
   "tweakersconstruct": "1.12.2-1.5.4",
   "aquaculture": "1.6.8",
   "cosmeticarmorreworked": "1.12.2-v5a",
+  "tooltweaks": "1.0.7",
   "forestry": "5.8.2.387",
   "base": "3.13.0",
   "p455w0rdslib": "2.3.161",
@@ -280,6 +282,7 @@
   "wit": "1.0.2",
   "gasconduits": "1.12.2-1.2.4",
   "enderiobase": "5.2.60",
+  "toolprogression": "1.12.2-1.6.10",
   "wrcbe": "2.3.2",
   "infinitylib": "1.12.2-1.12.0",
   "foamfix": "0.10.10-1.12.2",
