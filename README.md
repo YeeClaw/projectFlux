@@ -1,8 +1,7 @@
 # Hello! #
 
-*wip*
-
-Tyler Suggestions 
+Tyler:
+------------------ 
 ex nihilo early game, nerf solar panels
 remove dark steel from smeltery, only in alloy furnace
 dark steel replaces iron in all mekanism machines
@@ -13,7 +12,19 @@ botania magic gate mod
 gaia needed for irridescent altar
 weak blood orb replaces mana diamond in botania mana pylon
 
-Liam Suggestions
+Liam:
+------------------
 
+Austin:
+-------------------
+TODO:
 
-Austin Suggestions 
+* Make Better Foliage look better
+    * Fix cactus
+    * Fix grass
+* Unify ore gen
+    * (fix) copper
+    * Tin
+    * Alluminum
+    * Uranium
+* Questline Alpha
