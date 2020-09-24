@@ -70,3 +70,7 @@ config/IC2.ini
 config/jei/worldSettings.cfg
 
 config/thaumicjei_itemstack_aspects.json
+
+mods/memory_repo/tyra314
+
+config/AppliedEnergistics2/VersionChecker.cfg_20200923_183303.errored
