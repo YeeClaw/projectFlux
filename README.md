@@ -20,8 +20,9 @@ Austin:
 TODO:
 
 * Unify ore gen
-    * (fix) copper - needs testing
-    * Tin - needs testing
     * Alluminum
     * Uranium
-* Questline Alpha
+* Questline Beta
+    * Start with ex nihilo
+* Misc
+    * Start on tool progression with ores and hardness
