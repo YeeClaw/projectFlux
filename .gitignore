@@ -43,7 +43,6 @@ BotaniaVars.dat
 
 # Wildcards
 *.zip
-**/*.jar
 **/*.jar.disabled
 *.errored
 *.log
