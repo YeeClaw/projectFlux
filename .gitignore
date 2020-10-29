@@ -16,6 +16,7 @@
 /saves/
 /scripts/
 /tv-cache/
+/mods/
 
 # Configs we don't want
 config/brandon3055/ResourceCache
