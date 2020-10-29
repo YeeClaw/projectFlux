@@ -17,6 +17,11 @@
 /scripts/
 /tv-cache/
 /mods/
+/XaeroWaypoints/
+/XaeroWaypoints_BACKUP062020/
+/asm/
+/astralsorcery/gatewayFilter/
+/warpDrive_schematics/
 
 # Configs we don't want
 config/brandon3055/ResourceCache
