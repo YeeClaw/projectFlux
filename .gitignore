@@ -2,9 +2,6 @@
 /world/
 /dumps/
 /logs/
-/local/
-/libraries/
-/llibrary/
 /screenshots/
 /TombManyGraves/
 /.mixin.out/
@@ -12,9 +9,7 @@
 /crash-reports/
 /fonts/
 /journeymap/
-/resources/
 /saves/
-/scripts/
 /tv-cache/
 /mods/
 /XaeroWaypoints/
