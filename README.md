@@ -1,28 +1,5 @@
 # Hello! #
 
-Tyler:
------------------- 
-ex nihilo early game, nerf solar panels
-remove dark steel from smeltery, only in alloy furnace
-dark steel replaces iron in all mekanism machines
-hardened casing forestry for heavy engineering blocks that are used in thermal expansion machine frames
-bucket needs plates
-ic2 heavy engineering block in middle for simple machine chassis
-botania magic gate mod
-gaia needed for irridescent altar
-weak blood orb replaces mana diamond in botania mana pylon
+YeeClaw's Kitchen is a modpack that is designed to do just about everything. It will have realistic progression, technology, magic, and more!
 
-Liam:
-------------------
-
-Austin:
--------------------
-TODO:
-
-* Unify ore gen
-    * Alluminum
-    * Uranium
-* Questline Beta
-    * Start with ex nihilo
-* Misc
-    * Start on tool progression with ores and hardness
+This pack was originally made because I was unsatisfied with the progression and mod choices of most current kitchen sink packs!
