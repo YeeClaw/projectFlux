@@ -28,6 +28,7 @@ discordsuite/version
 discordsuite/win32-x86-64/discord-rpc.dll
 config/splash.properties
 config/thaumicjei_itemstack_aspects.json
+config/AppliedEnergistics2/CustomRecipes.cfg
 config/AppliedEnergistics2/aerecipes/
 config/AppliedEnergistics2/recipes/
 config/AppliedEnergistics2/items.csv
@@ -44,6 +45,7 @@ journeymapdefaults.firstrun
 config/InvTweaks/InvTweaks.cfg
 config/scavenge/IResourcesProptery.txt
 BotaniaVars.dat
+config/astralsorcery/amulet_enchantments.cfg
 
 
 # Wildcards
