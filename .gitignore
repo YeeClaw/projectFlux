@@ -1,4 +1,5 @@
 # Ignored folders
+
 /world/
 /dumps/
 /logs/
@@ -18,7 +19,9 @@
 /astralsorcery/gatewayFilter/
 /warpDrive_schematics/
 
+
 # Configs we don't want
+
 config/brandon3055/ResourceCache
 config/brandon3055/ProjectIntelligence/ModDocs/
 discordsuite/version
@@ -42,13 +45,17 @@ config/InvTweaks/InvTweaks.cfg
 config/scavenge/IResourcesProptery.txt
 BotaniaVars.dat
 
+
 # Wildcards
+
 *.zip
 **/*.jar.disabled
 *.errored
 *.log
 
+
 # Misc
+
 zs_export.json
 .curseclient
 usernamecache.json
