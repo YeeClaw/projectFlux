@@ -18,6 +18,7 @@
 /asm/
 /astralsorcery/gatewayFilter/
 /warpDrive_schematics/
+/.vscode/
 
 
 # Configs we don't want
